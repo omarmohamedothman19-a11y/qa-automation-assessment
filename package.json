@@ -1,0 +1,21 @@
+{
+  "name": "my-first-git-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarmohamedothman19-a11y/my-first-git-project.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/omarmohamedothman19-a11y/my-first-git-project/issues"
+  },
+  "homepage": "https://github.com/omarmohamedothman19-a11y/my-first-git-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
